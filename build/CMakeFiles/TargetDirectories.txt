@@ -1,3 +1,0 @@
-/home/jonas/Code/C++/build/CMakeFiles/sycltest.dir
-/home/jonas/Code/C++/build/CMakeFiles/edit_cache.dir
-/home/jonas/Code/C++/build/CMakeFiles/rebuild_cache.dir
