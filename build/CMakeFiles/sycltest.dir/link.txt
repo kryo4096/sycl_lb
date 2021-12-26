@@ -1,0 +1,1 @@
+/usr/local/bin/syclcc  -O2 CMakeFiles/sycltest.dir/main.cpp.o -o sycltest  /usr/lib/libpng.so /usr/lib/libz.so 
